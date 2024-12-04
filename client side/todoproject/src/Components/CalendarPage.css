@@ -1,0 +1,57 @@
+.calendar-page .container {
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(203, 58, 58, 0.1);
+    padding: 20px;
+}
+
+.calendar-page .calendar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-page .custom-calendar {
+    border: none;
+    border-radius: 10px;
+}
+
+.calendar-page .tasks-container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-page .tasks-container h3 {
+    color: #333;
+}
+
+.calendar-page .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-page .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.calendar-page .card-text {
+    font-size: 0.95rem;
+}
+
+.calendar-page .btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.calendar-page .btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
